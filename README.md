@@ -3,7 +3,7 @@ Predicting Loan Application Fraud with Customer and Transaction Data
 
 ## Project Documents
 - [Final Report](https://drive.google.com/file/d/1JY6sldiaM8reTYSnXBO74PRlDGY1lwOp/view?usp=sharing)
-- [Presentation Slides](https://drive.google.com/file/d/1o57PP5sWQwTBXPxdQCYUeOZLDb41ME38/view?usp=sharing)
+- [Presentation Slides](https://drive.google.com/file/d/1YR16xjixDURHP2pqSJ8ZbLJHTbvf7BdF/view?usp=sharing)
 
 ## Project Overview
 This project implements various machine learning approaches to detect fraudulent behaviour in loan applications, enhanced with transaction-level behavioural data as supplementary signals. The goal is to classify each case as either legitimate or fraudulent using different models and compare their performance under class-imbalanced conditions.
