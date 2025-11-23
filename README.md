@@ -2,7 +2,7 @@
 Predicting Loan Application Fraud with Customer and Transaction Data
 
 ## Project Documents
-- [Final Report](https://drive.google.com/file/d/1JY6sldiaM8reTYSnXBO74PRlDGY1lwOp/view?usp=sharing)
+- [Final Report](https://drive.google.com/file/d/1e_V5TycXFSNn8GwDfw5Jp45p3y6ZYzsx/view?usp=drive_link)
 - [Presentation Slides](https://drive.google.com/file/d/1YR16xjixDURHP2pqSJ8ZbLJHTbvf7BdF/view?usp=sharing)
 
 ## Project Overview
